@@ -3,4 +3,4 @@
 # My Projects
 
 - [Amazon Sales Analysis](https://github.com/SimonJ8-J8/DSA-CAPSTONE-PROJECT.git)
-- [Palmoria Group HR Analysis](https://github.com/SimonJ8-J8/DSA-CAPSTONE-PROJECT-2.git)
+- [Palmoria Group HR Analysis](https://github.com/SimonJ8-J8/DSA-CAPSTONE-PROJECT2.git)
